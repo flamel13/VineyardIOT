@@ -35,4 +35,4 @@ node bridge.js
 
 # Relazione
 
-La [relazione](https://github.com/flamel13/VineyardIOT/blob/master/Relazione_Finale_IOT.pdf) con la descrizione integrale del progetto, completa della fasi di progettazione e implementazione è inclusa nel repository.
+La [relazione](https://github.com/flamel13/VineyardIOT/blob/master/Relazione_Finale_IOT.pdf) con la descrizione integrale del progetto, completa delle fasi di progettazione e implementazione è inclusa nel repository.
