@@ -1,0 +1,19 @@
+{
+  "name": "amazoniot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^1.5.1",
+    "aws-iot-device-sdk": "^2.2.1",
+    "axios": "^0.18.0",
+    "figlet": "^1.2.1",
+    "node-fetch": "^2.3.0",
+    "socket.io-client": "^2.2.0"
+  }
+}

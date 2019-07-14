@@ -1,0 +1,415 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3406772,44.5052511 ]
+    },
+    "properties": {
+    "Nome":"RITA - Piazza delle Medaglie d'Oro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.340981,44.50441 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Amendola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.322345,44.495342 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Andrea Costa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.343301,44.492151 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Archiginnasio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.354349,44.495403 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Belmeloro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3595682383,44.4986595561 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Berlinguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.352471,44.499077 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Bertoloni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3435554504,44.5014029211 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via dei Mille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3448922,44.5032167 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via dell'Indipendenza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.353415,44.510156 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Donato Creti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.357342,44.520048 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Ferrarese"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.343985,44.49976 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Indipendenza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.350948,44.511373 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Liberazione"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3387007,44.4995147 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Marconi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.358061,44.493834 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Massarenti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.34671,44.509026 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Matteotti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.361772,44.4885132 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Mazzini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.369165,44.481963 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Mezzofanti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.360915,44.481657 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Murri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.346302,44.49424 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Rizzoli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.321164,44.501389 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Saffi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.362138,44.502506 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via San Donato"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.317871,44.488853 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Saragozza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.33803,44.495586 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Ugo Bassi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.360625,44.493521 ]
+    },
+    "properties": {
+    "Nome":"RITA - Via Zaccherini Alvisi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.356537,44.494041 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Porta San Vitale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.353458,44.486782 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Porta Santo Stefano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.346812,44.499401 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Alessandrini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3357737,44.4887938 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Bocca di Lupo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3501054049,44.5013837907 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Borgo San Pietro 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3491505384,44.5001020389 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Borgo San Pietro 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3478577137,44.5005382203 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Capo di Lucca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.340337,44.488899 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via D'Azeglio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.347028,44.4855255 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via degli Angeli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3487482071,44.501934744 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Finelli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.338958,44.500076 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Marconi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3521707058,44.5017090068 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Mascarella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.338438,44.499031 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via Riva di Reno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.331421,44.49773 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via San Felice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.32935,44.494469 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Via San'Isaia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.344585,44.487316 ]
+    },
+    "properties": {
+    "Nome":"SIRIO - Viale XII Giugno"
+    }
+  }
+]
+}

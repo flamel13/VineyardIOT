@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.mr-20 {
+  margin-right: 20px !important;
+}
+
+.mb-md-0, .my-md-0 {
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
+}
+
+.container {
+  padding-bottom: 30px;
+}

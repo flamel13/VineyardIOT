@@ -1,0 +1,155 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.373269,44.499783 ]
+    },
+    "properties": {
+    "Nome":"Andreini - Beroaldo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.357825,44.48735 ]
+    },
+    "properties": {
+    "Nome":"Carducci - Dante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.367116,44.482697 ]
+    },
+    "properties": {
+    "Nome":"Laura Bassi - Mezzofanti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.38234,44.480656 ]
+    },
+    "properties": {
+    "Nome":"Lenin - Po - Emilia Levante"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.321669,44.501205 ]
+    },
+    "properties": {
+    "Nome":"Malvasia - Vittorio Veneto - Saffi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.270835,44.518986 ]
+    },
+    "properties": {
+    "Nome":"Marco Emilio Lepido - Cavalieri Ducati - Salute"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.36555,44.485485 ]
+    },
+    "properties": {
+    "Nome":"Masi - Leandro Alberti"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.401754,44.49493 ]
+    },
+    "properties": {
+    "Nome":"Mattei - Martelli - Bassa dei Sassi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.358688,44.483021 ]
+    },
+    "properties": {
+    "Nome":"Murri - Gandino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.368554,44.478004 ]
+    },
+    "properties": {
+    "Nome":"Orti - Dagnini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.327548,44.497108 ]
+    },
+    "properties": {
+    "Nome":"Sabotino  - Vicini"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.362149,44.502468 ]
+    },
+    "properties": {
+    "Nome":"San Donato - del Lavoro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.36394,44.503376 ]
+    },
+    "properties": {
+    "Nome":"San Donato - Repubblica"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.363382,44.548168 ]
+    },
+    "properties": {
+    "Nome":"Shakespeare - Peglion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.291478,44.504646 ]
+    },
+    "properties": {
+    "Nome":"Togliatti - De Pisis"
+    }
+  }
+]
+}
