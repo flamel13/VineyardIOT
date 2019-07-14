@@ -1,11 +1,18 @@
 # Vineyard IOT Monitoring Platform
 
+**Homepage**
 <p align="center">
-<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/homepage.png" width="450">
+<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/homepage.png" width="650">
 </p>
 
+**Sensors Page**
 <p align="center">
-<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/sensorspage.png" width="450">
+<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/sensorspage.png" width="650">
+</p>
+
+**Architettura Generale**
+<p align="center">
+<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/architecture.png" width="650">
 </p>
 
 Repository per il progetto di Internet of Things.
