@@ -1,18 +1,18 @@
 # Vineyard IOT Monitoring Platform
 
 <p align="center">
-<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/homepage.png" width="250">
+<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/homepage.png" width="450">
 </p>
 
 <p align="center">
-<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/sensorspage.png" width="250">
+<img src="https://github.com/flamel13/VineyardIOT/blob/master/screenshots/sensorspage.png" width="450">
 </p>
 
 Repository per il progetto di Internet of Things.
 
 # Directory
 
-Il progetto si articola in 4 cartelle.
+Il progetto si articola in 4 cartelle.\
 **Express Backend:** Backend scritto in Express.js, si occupa della ricezione dei dati provenienti da Amazon AWS prodotti dalla sensoristica. Li salva inoltre su InfluxDB. \
 **ReactJS Frontend:** Front-end scritto in ReactJS, si occupa della visualizzazione dei dati provenienti dal backend relativi alla sensoristica.\
 **NodeJS Clients:** Attraverso i client (degli agricoltori) è possibile monitorare il flusso dei dati prodotti dai sensori installati "on the field". Si può stoppare inoltre l'invio dei dati inviati a Amazon AWS.\
